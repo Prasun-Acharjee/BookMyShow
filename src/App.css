@@ -20,3 +20,23 @@
 .App-link {
   color: #09d3ac;
 }
+
+.modal-style{
+  display: flex;
+  justify-content: center;
+  align-items :center;
+  direction: inherit;
+    width: 40%;
+    height: 400;
+    background-color: whitesmoke;
+    border: '2px solid #000';
+    box-shadow: turquoise;
+    padding:content;
+}
+
+.list{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
